@@ -23,6 +23,3 @@ The focus of this repository is on:
 - Core Python concepts
 - Logic building
 - Writing clean and understandable practice code
-
-## Note
-This repository is maintained strictly for learning and practice purposes.
