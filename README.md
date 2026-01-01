@@ -1,4 +1,3 @@
-# Python_Learning_Practice
 # Python Learning Practice
 
 ## Overview
